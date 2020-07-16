@@ -6,7 +6,7 @@ IRun app::
   cd tkAudioConverter
   python3 tkAudioConverter
   
- Install app:
+Install app:
  
  python setup.py install
  or
