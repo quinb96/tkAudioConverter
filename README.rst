@@ -11,5 +11,5 @@ Install app::
  python setup.py install
 
 
-The setup..p should install a shortcut icon to the Desktop folder.
+The setup.py script should install a shortcut icon to the Desktop folder.
  
