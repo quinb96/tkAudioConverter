@@ -9,5 +9,7 @@ IRun app::
 Install app::
  
  python setup.py install
- or
- pip install -e tkAudioConverter
+
+
+The setup..p should install a shortcut icon to the Desktop folder.
+ 
