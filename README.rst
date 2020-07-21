@@ -9,6 +9,8 @@ Install app using setup.py (Optional)::
 
 Double click ``tkAudioConverter.exe``
 
+or
+
 Run as python script::
 
   python3 tkAudioConverter.py
