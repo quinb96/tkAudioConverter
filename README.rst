@@ -16,8 +16,9 @@ Linux setup.py (Optional)::
   cd exe-win32-3.8 (The last number of this folder will vary)
   ./tkAudioConverter
 
-MSI Installer
-+++++++++++++
+Install to Windows via MSI Installer
++++++++++++++++++++++++++++++++++++
+
 
 Run as python script::
 
