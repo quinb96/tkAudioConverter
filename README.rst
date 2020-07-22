@@ -1,4 +1,4 @@
-Download app::
+Download repo::
 
   git clone https://github.com/sketchyboi14/tkAudioConverter.git
   
