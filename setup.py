@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-from sys import platform
 
 setup(name="tkAudioConverter",
       author="Quin Brown",
@@ -13,4 +12,3 @@ setup(name="tkAudioConverter",
       zip_safe=False,
       packeges=find_packages(),
       )
-        
