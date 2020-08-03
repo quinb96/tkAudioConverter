@@ -1,6 +1,6 @@
 For Linux and Windows
 
-Install to Windows ``https://github.com/sketchyboi14/tkAudioConverter/releases/tag/tkAC``
+Install to Windows with exe``https://github.com/sketchyboi14/tkAudioConverter/releases/tag/tkAC``
 
 
 Run as python script::
