@@ -1,26 +1,9 @@
-Download repo::
-
-  git clone https://github.com/sketchyboi14/tkAudioConverter.git
-  
-Windows setup.py (Optional)::
-```
-python setup.py install
- cd build
- cd exe-win32-3.8 (The last number of this folder will vary)
-```
-Double click ``tkAudioConverter.exe``
-
-Linux setup.py (Optional)::
-
-  python setup.py install
-  cd build 
-  cd exe-win32-3.8 (The last number of this folder will vary)
-  ./tkAudioConverter
-
-Install to Windows via MSI Installer
-+++++++++++++++++++++++++++++++++++
+Install to Windows ``https://github.com/sketchyboi14/tkAudioConverter/releases/tag/tkAC``
 
 
 Run as python script::
-
-  python3 tkAudioConverter.py
+```
+git clone https://github.com/sketchyboi14/tkAudioConverter.git
+cd tkAudioConverter
+python3 tkAudioConverter
+```
