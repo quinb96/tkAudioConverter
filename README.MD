@@ -1,3 +1,5 @@
+For Linux and Windows
+
 Install to Windows ``https://github.com/sketchyboi14/tkAudioConverter/releases/tag/tkAC``
 
 
