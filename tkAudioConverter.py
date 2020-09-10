@@ -89,11 +89,11 @@ def currentselection(*args):
 def convertto_flac():
 	global sound
 	global root2
-	filesave = filedialog.asksaveasfilename(title="Save As Flac", defaultextension=".Flac")
+	filesave = filedialog.asksaveasfilename(title="Save As Flac", defaultextension=".flac")
 	sound.export(filesave, format="Flac")
 	root2.destroy()
 	if sound.export(filesave, format="Flac"):
-		messagebox.showinfo("Successful", "Your audio file has been successfully converted to wav")
+		messagebox.showinfo("Successful", "Your audio file has been successfully converted to flac")
 
 def convertto_wav():
 	global sound
