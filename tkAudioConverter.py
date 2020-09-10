@@ -27,11 +27,11 @@ def curconvertto_flac():
 	global sound
 	global root3
 	n = listbox.curselection()
-	filesave = filedialog.asksaveasfilename(title="Save As Flac", defaultextension=".Flac")
+	filesave = filedialog.asksaveasfilename(title="Save As Flac", defaultextension=".flac")
 	sound.export(filesave, format="Flac")
 	root3.destroy()
 	if sound.export(filesave, format="Flac"):
-		messagebox.showinfo("Successful", "Your audio file has been successfully converted to mp3")
+		messagebox.showinfo("Successful", "Your audio file has been successfully converted to flac")
 
 def curconvertto_ogg():
 	global sound
@@ -41,7 +41,7 @@ def curconvertto_ogg():
 	sound.export(filesave, format="ogg")
 	root3.destroy()
 	if sound.export(filesave, format="ogg"):
-		messagebox.showinfo("Successful", "Your audio file has been successfully converted to mp3")
+		messagebox.showinfo("Successful", "Your audio file has been successfully converted to ogg")
 
 def curconvertto_mp3():
 	global sound
