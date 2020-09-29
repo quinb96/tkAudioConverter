@@ -1,6 +1,7 @@
 ## An audio converter coded in python3 for Linux and Windows
 
 ![Screenshot](tkACsonglist.png)
+![Screenshot](tkACaudioformat.png)
 
 # Installing Dependencies
 ``pip3 install -r requirements.txt``
