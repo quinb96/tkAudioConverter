@@ -26,7 +26,7 @@ Then type "C:\Program Files\ffmpeg\bin", then click "OK"
 
 You're done. Windows should be able to find ffmpeg now.
 
-Run as python script
+**Run as python script**
 ```
 git clone https://github.com/sketchyboi14/tkAudioConverter.git
 cd tkAudioConverter
