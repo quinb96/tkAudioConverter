@@ -1,4 +1,7 @@
-For Linux and Windows
+An audio converter coded in python3 for Linux and Windows
+
+# Installing Dependencies
+``sudo python3 install -r requirements.txt``
 
 # Windows Installation
 
@@ -13,9 +16,9 @@ Copy the ffmpeg folder, then paste it to C:\Program Files\
 
 Next, go to your Windows search bar which is on the bottom left corner a white rectangle box.
 
-Type "environment variables", without the quotes, then press "enter".
+Type ``Environment Variables``, without the quotes, then press "enter".
 
-A System Properties window comes up. At the bottom right corner of the window, click "Environment Variables"
+A System Properties window comes up. At the bottom right corner of the window, click ``Environment Variables``
 
 Another window pops up. There was two boxes. One that is "User variables for username"
 and one that is "System Variables".
@@ -24,7 +27,7 @@ Under "System Variables" in the Variable column, click "Path", then click "Edit"
 
 Another window appears. On the top right corner click "New".
 
-Then type "C:\Program Files\ffmpeg\bin", then click "OK"
+Then type ``C:\Program Files\ffmpeg\bin``, then click "OK"
 
 You're done. Windows should be able to find ffmpeg now.
 
