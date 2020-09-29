@@ -1,5 +1,7 @@
 For Linux and Windows
 
+# Windows Installation
+
 Install to Windows``https://github.com/sketchyboi14/tkAudioConverter/releases/tag/tkAC``
 
 You need ffmpeg in order for this software to work.
@@ -25,6 +27,14 @@ Another window appears. On the top right corner click "New".
 Then type "C:\Program Files\ffmpeg\bin", then click "OK"
 
 You're done. Windows should be able to find ffmpeg now.
+
+# Linux Installation
+
+All you need to do is install ffmpeg from apt-get.
+```
+sudo apt-get install ffmpeg
+```
+That's all! The software should work for you now.
 
 **Run as python script**
 ```
