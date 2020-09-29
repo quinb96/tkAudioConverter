@@ -1,7 +1,7 @@
 An audio converter coded in python3 for Linux and Windows
 
 # Installing Dependencies
-``sudo python3 install -r requirements.txt``
+``pip3 install -r requirements.txt``
 
 # Windows Installation
 
