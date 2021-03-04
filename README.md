@@ -19,7 +19,7 @@ Copy the ffmpeg folder, then paste it to C:\Program Files\
 
 Next, go to your Windows search bar which is on the bottom left corner a white rectangle box.
 
-Type ``Environment Variables``, without the quotes, then press "enter".
+Type ``Environment Variables``, without the quotes, then press Enter.
 
 A System Properties window comes up. At the bottom right corner of the window, click ``Environment Variables``
 
