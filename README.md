@@ -23,7 +23,7 @@ Type ``Environment Variables``, without the quotes, then press Enter.
 
 A System Properties window comes up. At the bottom right corner of the window, click ``Environment Variables``
 
-Another window pops up. There was two boxes. One that is "User variables for username"
+Another window pops up. There's two boxes. One that is "User variables for username"
 and one that is "System Variables".
 
 Under "System Variables" in the Variable column, click "Path", then click "Edit"
