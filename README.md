@@ -42,7 +42,7 @@ sudo apt-get install ffmpeg
 ```
 That's all! The software should work for you now.
 
-**Run as python script**
+**Running the script**
 ```
 git clone https://github.com/sketchyboi14/tkAudioConverter.git
 cd tkAudioConverter
